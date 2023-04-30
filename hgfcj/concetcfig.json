@@ -1,5 +1,6 @@
 {
   "api": "site",
   "site": "http://shapon.store/wordwise",
-  "gitgub": "rijghovi/hgbvyguty/main"
+  "gitSite": "https://raw.githubusercontent.com",
+  "gitPath": "rijghovi/hgbvyguty/main",
 }
